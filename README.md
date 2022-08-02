@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Gahdloot/Django-webscarpping-application">
-    <img src="codescrapper/codescar.png" alt="Logo" width="800" height="240">
+    <img src="codescrapper/codescar.png" alt="Logo" width="600" height="390">
   </a>
 
   <h3 align="center">Django-webscarpping-application</h3>
